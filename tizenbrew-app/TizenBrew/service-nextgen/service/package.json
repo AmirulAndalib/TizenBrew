@@ -11,7 +11,7 @@
   "license": "GPL-3.0-only",
   "dependencies": {
     "adbhost": "^0.0.2",
-    "chrome-remote-interface": "^0.25.7",
+    "chrome-remote-interface": "^0.34.0",
     "express": "^4.21.2",
     "node-fetch": "^2.7.0",
     "ws-new": "npm:ws@^8.18.0",
